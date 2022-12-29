@@ -9,5 +9,6 @@ The Avionics for the rocket are split into 4 sections:
   The Ground Station (GS)
   
 A Basic System Diagram can be seen below:
-![image](https://user-images.githubusercontent.com/121640989/210010038-7d8d4370-89ca-4896-9e47-7764fd5057ff.png)
+
+![image](https://user-images.githubusercontent.com/121640989/210010083-771a2b8f-4718-4cb3-8070-6f1b1c3217fa.png)
 
