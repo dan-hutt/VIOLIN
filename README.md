@@ -17,4 +17,4 @@ Basic System Diagram can be seen below:
 
 ## Main Control Board (MCB)
 
-This is the main and most complecation part of the project and consists of the main microcontroller and all monitoring sensors and pyrotecnic channel actuation
+This is the main and most complecation part of the project and consists of the main microcontroller and all monitoring sensors and pyrotechnic channel actuation
