@@ -1,0 +1,35 @@
+{
+  "name": "violin_v2",
+  "version": "1.0.0",
+  "description": "gs app for violin",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Dan Hutton",
+  "license": "ISC",
+  "dependencies": {
+    "@cubejs-client/core": "^0.31.46",
+    "@serialport/parser-readline": "^10.5.0",
+    "@types/w3c-web-serial": "^1.0.3",
+    "chart.js": "^4.2.0",
+    "electron-chartjs": "^1.0.0",
+    "serialport": "^10.5.0",
+    "tableify": "^1.1.1",
+    "web-serial-polyfill": "^1.0.14",
+    "xterm": "^5.1.0",
+    "xterm-addon-fit": "^0.7.0"
+  },
+  "devDependencies": {
+    "@types/web": "^0.0.86",
+    "@typescript-eslint/eslint-plugin": "^5.47.1",
+    "@typescript-eslint/parser": "^5.47.1",
+    "electron": "^22.0.0",
+    "eslint": "^8.30.0",
+    "parcel": "^2.8.3",
+    "typescript": "^4.9.4",
+    "vite": "^4.0.3",
+    "vite-plugin-eslint": "^1.8.1",
+    "vite-plugin-pwa": "^0.14.0"
+  }
+}
